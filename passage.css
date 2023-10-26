@@ -1,0 +1,26 @@
+body{
+    background: olivedrab;
+    text-align: center;
+    
+}
+
+h1{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+#increment-btn{
+    background-color: green;
+    border-width: 10px;
+    font-weight: bold;
+    color: white;
+    box-sizing: border-box;
+}
+
+#save-btn{
+    background-color: blueviolet;
+    border-width: 10px;
+    color: white;
+    font-weight: bold;
+}
